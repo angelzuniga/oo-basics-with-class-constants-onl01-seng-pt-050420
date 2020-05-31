@@ -15,5 +15,5 @@ GENRES = []
   def genre=(genre)
     @genre = genre
     GENRES << genre 
-
-end
+  end
+endlearn spec/01_book_spec.rb
